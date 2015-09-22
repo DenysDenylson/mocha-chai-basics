@@ -1,0 +1,19 @@
+{
+  "name": "mocha-chai-basics",
+  "version": "1.0.0",
+  "description": "Un basico ejemplo de mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "denysdenylson",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
